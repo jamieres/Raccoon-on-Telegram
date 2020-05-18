@@ -1,0 +1,37 @@
+Raccoon on Telegram IOCs
+
+MalDoc:
+fd44aaf29c9d039c72d4cbca892505dc BankStatement02_3174.xlsm 
+8f7130cc05c6ac3657ae9c8765cdf716 BankStatement003_5018.xlsm 
+f36635deb9a5b826005fb563d26608e4 BankStatement0130_11275.xlsm
+bbe4553cd492859d12d5b34a42394953 Statement010_1165.xlsm
+942b364f66c6fa5ffbba9d66252b219e
+e875fb9995bfcd0bf17dc5ccb9399548
+
+Infector:
+cloud-server-updater6.co.za/doc/officebuilder.exe
+cloud-server-updater7.co.za/doc/officebuilder.exe
+cloud-server-updater8.co.za/doc/officebuilder.exe
+cloud-server-updater9.co.za/doc/officebuilder.exe
+
+Command&Control:
+34.105.255.170
+185.162.10.117
+45.76.115.50
+35.228.232.192
+185.162.11.114
+35.228.204.16
+34.107.41.247
+
+Telegram channels:
+blintick
+btelefon
+jdex020
+brecordesz
+bgerii1
+bdiamond13
+hagressor
+hdex020
+hvexaria
+
+** All Telegram accounts created from May 11 to May 18
